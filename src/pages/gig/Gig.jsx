@@ -7,8 +7,8 @@ function Gig() {
     <div className="gig">
       <div className="container">
         <div className="left">
-          <span className="breadcrumbs">Liverr > Graphics & Design ></span>
-          <h1>I will create ai generated art for you</h1>
+          <span className="breadcrumbs">Alpha > Interior decor & Design ></span>
+          <h1>I will beautify your space for you</h1>
           <div className="user">
             <img
               className="pp"
@@ -41,19 +41,9 @@ function Gig() {
           </Slider>
           <h2>About This Gig</h2>
           <p>
-            I use an AI program to create images based on text prompts. This
-            means I can help you to create a vision you have through a textual
-            description of your scene without requiring any reference images.
-            Some things I've found it often excels at are: Character portraits
-            (E.g. a picture to go with your DnD character) Landscapes (E.g.
-            wallpapers, illustrations to compliment a story) Logos (E.g. Esports
-            team, business, profile picture) You can be as vague or as
-            descriptive as you want. Being more vague will allow the AI to be
-            more creative which can sometimes result in some amazing images. You
-            can also be incredibly precise if you have a clear image of what you
-            want in mind. All of the images I create are original and will be
-            found nowhere else. If you have any questions you're more than
-            welcome to send me a message.
+          With a keen eye for detail and a commitment to excellence, I strive to exceed client expectations.
+           Whether you’re looking for a cozy home makeover or a sleek office redesign, I’m here to make your vision a reality.
+           Let’s create a space you’ll love! Contact me today to get started on your interior design journey.
           </p>
           <div className="seller">
             <h2>About The Seller</h2>
@@ -100,10 +90,10 @@ function Gig() {
               </div>
               <hr />
               <p>
-                My name is Anna, I enjoy creating AI generated art in my spare
-                time. I have a lot of experience using the AI program and that
-                means I know what to prompt the AI with to get a great and
-                incredibly detailed result.
+              Are you ready to elevate your living or working environment? 
+              As a passionate and experienced interior designer,
+               I specialize in creating beautiful, 
+               functional spaces tailored to your unique style and needs.
               </p>
             </div>
           </div>
@@ -207,7 +197,7 @@ function Gig() {
                       src="https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png"
                       alt=""
                     />
-                    <span>United States</span>
+                    <span>jos</span>
                   </div>
                 </div>
               </div>
@@ -238,12 +228,11 @@ function Gig() {
         </div>
         <div className="right">
           <div className="price">
-            <h3>1 AI generated image</h3>
+            <h3>2 squaremeter paintjob</h3>
             <h2>$ 59.99</h2>
           </div>
           <p>
-            I will create a unique high quality AI generated image based on a
-            description that you give me
+            I will paint your wall
           </p>
           <div className="details">
             <div className="item">
@@ -258,15 +247,15 @@ function Gig() {
           <div className="features">
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Prompt writing</span>
+              <span>3D Renderings</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Artwork delivery</span>
+              <span>Color & Material Selection</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Image upscaling</span>
+              <span>Space Planning</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />

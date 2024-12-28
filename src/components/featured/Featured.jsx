@@ -12,20 +12,20 @@ function Featured() {
           <div className="search">
             <div className="searchInput">
               <img src="./img/search.png" alt="" />
-              <input type="text" placeholder='Try "building mobil app"' />
+              <input type="text" placeholder='Try "painter"' />
             </div>
             <button>Search</button>
           </div>
           <div className="popular">
             <span>Popular:</span>
-            <button>Web Design</button>
-            <button>WordPress</button>
-            <button>Logo Design</button>
-            <button>AI Services</button>
+            <button>House Painting</button>
+            <button>Plumbing</button>
+            <button>Landscaping</button>
+            <button>Cleaning</button>
           </div>
         </div>
         <div className="right">
-          <img src="./img/man.png" alt="" />
+          <img src="./img/man.jpg" alt="" />
         </div>
       </div>
     </div>

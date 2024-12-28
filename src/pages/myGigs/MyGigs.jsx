@@ -36,7 +36,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>Stunning concept art</td>
+            <td>3d paint</td>
             <td>59.<sup>99</sup></td>
             <td>13</td>
             <td>
@@ -51,7 +51,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>Ai generated concept art</td>
+            <td>screeding</td>
             <td>120.<sup>99</sup></td>
             <td>41</td>
             <td>
@@ -66,7 +66,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>High quality digital character</td>
+            <td>Emulsion</td>
             <td>79.<sup>99</sup></td>
             <td>55</td>
             <td>
@@ -81,7 +81,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>Illustration hyper realistic painting</td>
+            <td> hyper realistic painting</td>
             <td>119.<sup>99</sup></td>
             <td>29</td>
             <td>
@@ -96,7 +96,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>Original ai generated digital art</td>
+            <td>Oilpaint art</td>
             <td>59.<sup>99</sup></td>
             <td>34</td>
             <td>
@@ -111,7 +111,7 @@ function MyGigs() {
                 alt=""
               />
             </td>
-            <td>Text based ai generated art</td>
+            <td>glass art</td>
             <td>110.<sup>99</sup></td>
             <td>16</td>
             <td>

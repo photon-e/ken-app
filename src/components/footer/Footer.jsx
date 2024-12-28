@@ -8,17 +8,17 @@ function Footer() {
         <div className="top">
           <div className="item">
             <h2>Categories</h2>
-            <span>Graphics & Design</span>
-            <span>Digital Marketing</span>
-            <span>Writing & Translation</span>
-            <span>Video & Animation</span>
-            <span>Music & Audio</span>
-            <span>Programming & Tech</span>
-            <span>Data</span>
-            <span>Business</span>
-            <span>Lifestyle</span>
-            <span>Photography</span>
-            <span>Sitemap</span>
+            <span>carpenter</span>
+            <span>clearning</span>
+            <span>painter</span>
+            <span>doors</span>
+            <span>plumber</span>
+            <span>pool</span>
+            <span>cctv</span>
+            <span>solar</span>
+            <span>tiling</span>
+            <span>windows</span>
+            <span>tree services</span>
           </div>
           <div className="item">
             <h2>About</h2>
@@ -48,28 +48,28 @@ function Footer() {
             <span>Affiliates</span>
             <span>Podcast</span>
             <span>Invite a Friend</span>
-            <span>Become a Seller</span>
+            <span>Become a professional</span>
             <span>Community Standards</span>
           </div>
           <div className="item">
-            <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <h2>More From Alpha</h2>
+            <span>Alpha Business</span>
+            <span>Alpha Pro</span>
+            <span>services near me</span>
+            <span>Alpha Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>Alpha Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>Alpha Workspace</span>
             <span>Learn</span>
-            <span>Working Not Working</span>
+            <span>home inspiration pictures</span>
           </div>
         </div>
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>Alpha</h2>
+            <span>© Alpha International Ltd. 2025</span>
           </div>
           <div className="right">
             <div className="social">

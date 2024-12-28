@@ -31,7 +31,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Stunning concept art</td>
+            <td>Small pool</td>
             <td>59.<sup>99</sup></td>
             <td>Maria Anders</td>
             <td>
@@ -46,7 +46,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Ai generated concept art</td>
+            <td>electric fence</td>
             <td>79.<sup>99</sup></td>
             <td>Francisco Chang</td>
             <td>
@@ -61,7 +61,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>High quality digital character</td>
+            <td>High quality tiles</td>
             <td>110.<sup>99</sup></td>
             <td>Roland Mendel</td>
             <td>
@@ -76,7 +76,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Illustration hyper realistic painting</td>
+            <td> hyper realistic painting</td>
             <td>39.<sup>99</sup></td>
             <td>Helen Bennett</td>
             <td>
@@ -91,7 +91,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Original ai generated digital art</td>
+            <td>bullet proof door</td>
             <td>119.<sup>99</sup></td>
             <td>Yoshi Tannamuri</td>
             <td>
@@ -106,7 +106,7 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Text based ai generated art</td>
+            <td>solar</td>
             <td>49.<sup>99</sup></td>
             <td>Giovanni Rovelli</td>
             <td>

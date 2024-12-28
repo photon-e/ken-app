@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="home">
       <Featured />
-      <TrustedBy />
+      {/* <TrustedBy /> */}
       <Slide slidesToShow={5} arrowsScroll={5}>
         {cards.map((card) => (
           <CatCard key={card.id} card={card} />
@@ -20,39 +20,38 @@ function Home() {
       <div className="features">
         <div className="container">
           <div className="item">
-            <h1>A whole world of freelance talent at your fingertips</h1>
+            <h1>A whole world of service professionals  at your fingertips</h1>
             <div className="title">
               <img src="./img/check.png" alt="" />
               The best for every budget
             </div>
             <p>
-              Find high-quality services at every price point. No hourly rates,
-              just project-based pricing.
+              Find high-quality services at every price point. 
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
               Quality work done quickly
             </div>
             <p>
-              Find the right freelancer to begin working on your project within
+              Find the right professional to begin working on your space within
               minutes.
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
               Protected payments, every time
             </div>
-            <p>
+            {/* <p>
               Always know what you'll pay upfront. Your payment isn't released
               until you approve the work.
-            </p>
+            </p> */}
             <div className="title">
               <img src="./img/check.png" alt="" />
               24/7 support
             </div>
-            <p>
+            {/* <p>
               Find high-quality services at every price point. No hourly rates,
               just project-based pricing.
-            </p>
+            </p> */}
           </div>
           <div className="item">
             <video src="./img/video.mp4" controls />
@@ -61,7 +60,7 @@ function Home() {
       </div>
       <div className="explore">
         <div className="container">
-          <h1>Explore the marketplace</h1>
+          <h1>Explore the space</h1>
           <div className="items">
             <div className="item">
               <img
@@ -69,7 +68,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Graphics & Design</span>
+              <span>Home Repair</span>
             </div>
             <div className="item">
               <img
@@ -78,7 +77,7 @@ function Home() {
               />
               <div className="line"></div>
 
-              <span>Digital Marketing</span>
+              <span>home cleaning</span>
             </div>
             <div className="item">
               <img
@@ -86,7 +85,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Writing & Translation</span>
+              <span>house painting</span>
             </div>
             <div className="item">
               <img
@@ -94,7 +93,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Video & Animation</span>
+              <span>plumbing</span>
             </div>
             <div className="item">
               <img
@@ -102,7 +101,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Music & Audio</span>
+              <span>landscaping</span>
             </div>
             <div className="item">
               <img
@@ -110,7 +109,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Programming & Tech</span>
+              <span>house cleaning</span>
             </div>
             <div className="item">
               <img
@@ -118,7 +117,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Business</span>
+              <span>Handyman</span>
             </div>
             <div className="item">
               <img
@@ -134,7 +133,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Data</span>
+              <span>moving</span>
             </div>
             <div className="item">
               <img
@@ -151,10 +150,10 @@ function Home() {
         <div className="container">
           <div className="item">
             <h1>
-              liverr <i>business</i>
+              Alpha <i>business</i>
             </h1>
             <h1>
-              A business solution designed for <i>teams</i>
+              A business solution designed for <i>companies</i>
             </h1>
             <p>
               Upgrade to a curated experience packed with tools and benefits,
@@ -172,9 +171,9 @@ function Home() {
 
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Manage teamwork and boost productivity with one powerful workspace
+              Manage teamwork and boost productivity 
             </div>
-            <button>Explore Liverr Business</button>
+            <button>Explore Alpha Business</button>
           </div>
           <div className="item">
             <img

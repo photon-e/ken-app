@@ -23,7 +23,7 @@ function Navbar() {
 
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "jean",
     isSeller: true,
   };
 
@@ -32,15 +32,15 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <Link className="link" to="/">
-            <span className="text">liverr</span>
+            <span className="text">Alpha</span>
           </Link>
           <span className="dot">.</span>
         </div>
         <div className="links">
-          <span>Liverr Business</span>
+          <span> Business</span>
           <span>Explore</span>
           <span>English</span>
-          {!currentUser?.isSeller && <span>Become a Seller</span>}
+          {!currentUser?.isSeller && <span>Become a professional</span>}
           {currentUser ? (
             <div className="user" onClick={()=>setOpen(!open)}>
               <img
@@ -85,28 +85,28 @@ function Navbar() {
           <hr />
           <div className="menu">
             <Link className="link menuLink" to="/">
-              Graphics & Design
+              home Repair
             </Link>
             <Link className="link menuLink" to="/">
-              Video & Animation
+              Home Clearning
             </Link>
             <Link className="link menuLink" to="/">
-              Writing & Translation
+              Home Improvement
             </Link>
             <Link className="link menuLink" to="/">
-              AI Services
+              Painting
             </Link>
             <Link className="link menuLink" to="/">
-              Digital Marketing
+              plumbing
             </Link>
             <Link className="link menuLink" to="/">
-              Music & Audio
+              Landscaping
             </Link>
             <Link className="link menuLink" to="/">
-              Programming & Tech
+              Floor installation
             </Link>
             <Link className="link menuLink" to="/">
-              Business
+              ceiling
             </Link>
             <Link className="link menuLink" to="/">
               Lifestyle
